@@ -13,5 +13,5 @@ sudo docker build -t regionals-ctf .
 
 ## Deployment
 ```
-sudo docker run --rm -it -p 8080:8080 -p 2222:22 -p 8009:8009 regionals-ctf:latest
+sudo docker run --rm -it -p 8080:8080 -p 22:22 -p 8009:8009 regionals-ctf:latest
 ```
