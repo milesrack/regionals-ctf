@@ -1,7 +1,0 @@
-Hi Daniel,
-
-The new website is still in development. If you need to do some configuration the root password is t0mc@t789.
-
-PS: Change the default password for Tomcat!!!
-
-- Miles
