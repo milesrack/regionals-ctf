@@ -1,0 +1,13 @@
+SKILLSUSA REGIONALS 2023 - CYBERSECURITY
+
+OBJECTIVES
+- Demonstrate knowledge of penetration testing by finding all three flags on the target system
+- Produce a writeup detailing the steps you took and your findings
+
+TARGET
+192.168.1.197
+
+RULES
+1. Only the target IP address is in scope
+2. Do not destroy or vandalize competition infrastructure
+3. No DOS/DDOS attacks
